@@ -1,4 +1,4 @@
-Reflexão (10-15 linhas)
+Reflexão
 
 Usei classes para entidades que representam identidade e ciclo de vida (Cliente, OrdemDeServico, ItemDeServico).
 VOs (Money, Email) foram implementados como record/record struct para garantir imutabilidade e comparação por valor,
